@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: rgb(39, 39, 39);
+}
+
+.uiContainer {
+	padding: 0px calc(100% - 600px * 2);
+}
+
+.nav {
+	width: 100%;
+	padding: 40px 0px;
+	display: flex;
+	justify-content: center;
+	gap: 25px;
+}
+
+.nav__item {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+
+.nav__item a {
+	text-decoration: none;
+	color: rgb(173, 173, 173);
+	transition: ease-in-out 0.2s;
+}
+
+.nav__item a:hover {
+	color: rgb(244, 244, 244);
+}
+
+.active a {
+	color: rgb(244, 244, 244);
+}
+
+.text {
+	color: white;
+}
