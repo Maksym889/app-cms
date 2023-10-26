@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Tab from "./components/Tab";
 import TabContent from "./components/TabContent";
 
-import tabsData from "../public/tabs.json";
+import tabsData from "./tabs.json";
 
 function App() {
 	const [activeTab, setActiveTab] = useState(null);
