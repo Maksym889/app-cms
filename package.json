@@ -32,7 +32,7 @@
     "style-loader": "^3.3.3",
     "webpack-dev-server": "^4.15.1"
   },
-  "homepage": "https://Maksym889.github.io/app-cms.git",
+  "homepage": "https://Maksym889.github.io/app-cms",
   "browserslist": {
     "production": [
       ">0.2%",
