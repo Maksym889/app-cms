@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{background-color:#272727;margin:0;padding:0}.uiContainer{padding:0 calc(100% - 1200px)}.nav{display:flex;gap:25px;justify-content:center;padding:40px 0;width:100%}.nav__item{font-size:24px;text-transform:uppercase}.nav__item a{color:#adadad;text-decoration:none;transition:.2s ease-in-out}.active a,.nav__item a:hover{color:#f4f4f4}.text{color:#fff}
+/*# sourceMappingURL=main.2bfbd547.css.map*/
