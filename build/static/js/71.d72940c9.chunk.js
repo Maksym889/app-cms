@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcms_app=self.webpackChunkcms_app||[]).push([[71],{71:function(e,t,n){n.r(t);n(390);var s=n(559);t.default=function(){return(0,s.jsx)("div",{className:"text",children:"Dummy Chart Content"})}}}]);
+//# sourceMappingURL=71.d72940c9.chunk.js.map
